@@ -1,0 +1,13 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+/mydb
+/target
+/.settings
+*.classpath
+.project
+ No newline at end of file
